@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am Gianmarco
+
+- 🔭 I’m currently working on an app developer in [flutter](https://github.com/flutter/flutter) → **[wayt.travel](https://wayt.travel)**
+- 📫 How to reach me: [calbigianmarco@gmail.com](mailto:calbigianmarco@gmail.com)
+
+---
+
+[![gianmarcocalbi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gianmarcocalbi)](https://wakatime.com/@gianmarcocalbi)
 
 <!--
 **gianmarcocalbi/gianmarcocalbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
