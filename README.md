@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Gianmarco
 
-- 🔭 I’m currently working on an app developer in [flutter](https://github.com/flutter/flutter) → **[wayt.travel](https://wayt.travel)**
+- 🔭 I’m currently working on an app developed in [flutter](https://github.com/flutter/flutter) → **[wayt.travel](https://wayt.travel)**
 - 📫 How to reach me: [calbigianmarco@gmail.com](mailto:calbigianmarco@gmail.com)
 
 ---
