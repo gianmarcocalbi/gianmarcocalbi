@@ -5,6 +5,7 @@
 
 ---
 ![gianmarcocalbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianmarcocalbi&show_icons=true&theme=prussian&count_private=true)
+
 [![gianmarcocalbi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gianmarcocalbi)](https://wakatime.com/@gianmarcocalbi)
 
 <!--
